@@ -1,0 +1,28 @@
+{
+  "name": "kiranback",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000K\u0000i\u0000r\u0000a\u0000a\u0000n\u0000B\u0000a\u0000c\u0000k\u0000e\u0000n\u0000d\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "index"
+  },
+  "keywords": [],
+  "author": "Rajesh Janagama",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2",
+    "mime-types": "^2.1.35",
+    "mongodb": "^6.9.0",
+    "mongoose": "^8.6.0",
+    "multer": "^1.4.5-lts.1",
+    "nodemon": "^3.1.4",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {}
+}
